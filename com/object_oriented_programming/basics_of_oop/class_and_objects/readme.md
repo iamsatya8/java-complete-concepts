@@ -19,13 +19,10 @@ Bicycle touringBicycle = new Bicycle();
 ACCESS MEMBERS OF A CLASS
 
 class Bicycle {
-    
     //filed of class
     int gear = 5;
-
     //method of class
     void braking(){
-
     }
 }
 
